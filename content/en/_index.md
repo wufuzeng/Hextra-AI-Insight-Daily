@@ -2,119 +2,113 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-12/2025-12-15
+next: /en/2025-12/2025-12-16
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/12/16
+## AI Daily Digest 2025/12/17
 
-> AI News | Daily Morning Read | Aggregated Web Data | Frontier Science Exploration | Industry Voice | Open Source Innovation | AI and Human Future | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Brief` | `Web Data Aggregation` | `Cutting-Edge Science Exploration` | `Industry Voices` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 ### **Today's Rundown**
 
 ```
-Alibaba Bailing: 3-Second, 9-Language Emotional Voice Cloning, Open-Source, Local Deployment
-SenseTime Seko2.0: Prompt-Generated Short Drama Storyboards, VRAM Down to 8GB
-Google NotebookLM: Gemini Integration Accesses Note Library to Prevent Information Gaps
-Tsinghua & Ant Dual-Flow: Black-Box Attack Transferability Up 34.58%
-Anthropic Interviews 1250 People, Reveals Workplace Anxiety, Creator Income Concerns
+Alibaba Wan 2.6 model supports role-playing with fifteen-second native audio-visual synced video.
+Nvidia releases Nemotron 3 series Nano model, 3 billion parameters, fourfold throughput increase.
+ChatGPT launches branch chat feature, supporting multi-threaded conversations to prevent information loss.
+Peking University team reveals LLM delicate balance phenomenon, generating content via potential functions.
+DeepSeek and Qwen tie for top spot on open-source model list, over half from Chinese teams.
 ```
 
 ### Product & Feature Updates
 
-1.  **Bailing🎙️ Upgrade: Three-Second Audio Across Nine Languages.**
-    Alibaba has open-sourced its [Bailing Voice Model (AI News)](https://www.aibase.com/zh/news/23691)! 🎤 Just three seconds of audio is all it takes to synthesize speech in Mandarin, Cantonese, Japanese, and more, even with emotional nuances. Fun-CosyVoice3 slashes initial package latency by 50%, while Fun-ASR nails noise accuracy at 93% [⭐ ~12.3k], now with local deployment support. (Source: AI News Daily)
-    <br/>![AI News: Alibaba Bailing Voice Model Multi-language Emotional Synthesis Interface Display](https://source.hubtoday.app/images/2025/12/news_01kchceds2et68ba9madsjkbzk.avif)<br/>
+1.  **Alibaba Tongyi Wanxiang Gets Another Upgrade!**
+    **Alibaba's Tongyi Wanxiang** has just leveled up, launching its [Wan 2.6 Video and Image Model (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/wan-2-6)! This bad boy is the first in China to support role-playing features. You can now churn out videos up to **15 seconds** long, complete with native audio-visual sync and custom audio support. Plus, it's packed with new goodies like scene-level control, multi-person scene shooting, and significantly **improved instruction following capabilities**. Text-to-image generation? It's nailing style details, making it perfect for short drama production. Check it out!<br/>![AI News: Tongyi Wanxiang Wan2.6 Video Model Multi-Camera Storyboard Control Interface](https://source.hubtoday.app/images/2025/12/news_01kckzvawxew3r0sx7yfzjfmng.avif)<br/>
 
-2.  **SenseTime🎬 Seko2.0 Launched: Solo Short Drama Production.**
-    SenseTime's Seko2.0 enables [integrated creation and generation (AI News)](https://www.jiqizhixin.com/articles/2025-12-15-9). Just type in a prompt, and it automatically plans scripts, storyboards, and videos! 🎥 The LightX2V framework is now open-source, supporting 1:1 real-time generation, with VRAM usage down to a mere 8GB, and it's already adapted for domestic chips! 🔥 (Source: AI News Daily)
+2.  **Nvidia Drops the Nemotron 3 Series!**
+    **Nvidia's Nemotron 3** is here, featuring three spicy open-source models: Nano (**30 billion parameters**), Super, and Ultra. These models rock a Mamba-Transformer hybrid MoE architecture. The Nemotron 3 Nano, [activated with only 3.2 billion parameters (AI News)](https://www.jiqizhixin.com/articles/2025-12-16-7), boasts a **4x throughput boost** compared to its predecessor and handles a million-token context. You can grab it now for [download on Hugging Face (AI News)](https://huggingface.co/nvidia), and it comes with the Taobao-MM 3 trillion-token training dataset and the NeMo Gym reinforcement learning library. What a deal!<br/>
 
-3.  **Google NotebookLM✨ Integrates Gemini: AI Understands Your Notes.**
-    Google has rolled out NotebookLM with deep Gemini integration, [accessing your personal knowledge base (AI News)](https://www.aibase.com/zh/news/23687) as conversational context. Now, users can directly cite notebook content during Gemini chats, preventing information gaps and creating personalized intelligent agents! 🧠💡 (Source: AI News Daily)<br/>
+3.  **ChatGPT Unleashes Branch Chat Feature!**
+    **OpenAI** has rolled out a cool new branch chat feature for **ChatGPT** on iOS and Android. Users can now create multiple parallel conversation branches, letting them [explore new directions based on the original discussion (AI News)](https://www.aibase.com/zh/news/23721). This function is a game-changer for multi-threaded scenarios like business strategy and creative writing, preventing info from getting lost in linear chats and boosting overall interactivity and creativity. Super handy!<br/>![AI News: ChatGPT Branch Chat Feature Operation Interface Screenshot](https://source.hubtoday.app/images/2025/12/news_01kckzvessekt9jxja6f6mv706.avif)<br/>
 
-4.  **Shenzhen Metro🐕: Xiaosuan, the Guide Dog, is on Duty.**
-    Xiaosuan, the [smart guide dog (AI News)](https://www.aibase.com/zh/news/23672), is piloting in Shenzhen Metro! 🐾 This clever canine integrates 3D voxel neural networks with speech recognition, supporting path planning, tactile paving navigation, and automatic return-to-base. Covering 88,000 square meters of non-paid areas, Xiaosuan is accompanied by a dedicated assistant during its trial period. (Source: AI News Daily)<br/>
+4.  **Kuaishou's KAT-Coder-Pro V1 Climbs to the Top!**
+    **Kuaishou's Agentic Coding model, KAT-Coder-Pro V1**, has officially [taken the stage (AI News)](https://www.aibase.com/zh/news/23729), scoring a whopping **64 points** in the Artificial Analysis evaluation. This puts it ahead of Claude 4.5 Sonnet, cracking the overall Top 10! Not only that, but it also snatched the **number one spot** in the non-inference model rankings. What's even cooler? Its token consumption is way lower than comparable models, delivering some serious bang for your buck. Awesome sauce!<br/>
 
----
+5.  **Gemini Gets a Sweet Image Markup Feature!**
+    **Google Gemini** just got even better, now letting you add text and line markings when uploading images. This means super precise control over object positioning and content modification. The best part? [All markings are automatically removed once you're done (AI News)](https://m.okjike.com/originalPosts/6941226b36c01015fac9979b). Just use the simple prompt: "Modify according to the markings, delete markings," and boom – significantly enhanced image editing accuracy. Talk about smart!<br/>![AI News: Gemini Image Markup Feature Demonstration Interface](https://source.hubtoday.app/images/2025/12/news_01kckzvmj3e50vr77yws99xq4d.avif)<br/>
 
-### Frontier Research
+### Cutting-Edge Research
 
-1.  **Google Veo🤖: A Simulated Robot World for Pitfall-Free Evaluation.**
-    DeepMind has launched Veo, a robot simulation system that [predicts strategy performance in OOD environments (AI News)](https://www.jiqizhixin.com/articles/2025-12-15-8)! 💡 It replaces hardware testing with multi-view video generation, and 1600 real-world experiments confirm its high fidelity, significantly slashing safety risks. Pretty cool, right? 😎 [Paper](https://arxiv.org/pdf/2512.10675) (Source: AI News Daily)
+1.  **Peking University Physics Team Uncovers LLM Dynamics!**
+    A squad from **Peking University's School of Physics** has made a groundbreaking discovery, unveiling a **"delicate balance phenomenon"** in LLM generation through the [Principle of Least Action (AI News)](https://www.jiqizhixin.com/articles/2025-12-16-8). Their research suggests that LLMs generate content by implicitly learning potential functions rather than rigid rule sets, behaving much like thermodynamic equilibrium systems. Interestingly, Claude-4 tends to converge quickly, while GPT-5 Nano is more inclined to explore state space. This theory is a game-changer, elevating AI research from mere "alchemy" to a quantifiable science. Mind blown!<br/>
 
-2.  **Tsinghua & Ant 🔥 Dual-Flow: A Universal Generator for Adversarial Attacks.**
-    Tsinghua and Ant have unveiled the [Dual-Flow framework (AI News)](https://www.jiqizhixin.com/articles/2025-12-15-7)! 🚀 This bad boy structures perturbations in flow space, enabling multi-target black-box attacks. Accepted at NeurIPS 2025, tests on the ImageNet validation set show a whopping 34.58% increase in transfer success rate. [Paper](https://openreview.net/pdf?id=zhCv5uZ8bh) (Source: AI News Daily)
+2.  **Harvard Dives Deep into Perplexity User Data!**
+    A [Harvard study (AI News)](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/), based on hundreds of millions of queries, reveals some cool insights into Perplexity users. It turns out **55% use it for personal stuff**, while 30% are in professional settings. Productivity/workflow queries make up a solid **36%**, with learning and research at 21%. What's really neat is how users shift from simple to more complex tasks over time, giving us a genuine snapshot of agent usage. Pretty telling, right?<br/>
 
-3.  **Apple CLaRa💡: Unified RAG Architecture for Shared Representations.**
-    Apple Research introduces the CLaRa framework, which [compresses documents into memory tokens (AI News)](https://x.com/omarsar0/status/2000570838920434037)! 🚀 Retrieval and generation work together in a continuous space. Even with 16x compression, it hits 51.41 F1 on NQ, outperforming labeled retrievers by 10 points in unsupervised settings. Pretty sweet! [Paper](https://arxiv.org/abs/2511.18659) (Source: AI News Daily)<br/>
+3.  **Stanford Unveils Multimodal DiffFusion Framework!**
+    **Stanford** has introduced a slick new framework that leverages diffusion models for [3D object detection in adverse weather (AI News)](https://arxiv.org/abs/2512.13107). How cool is that? Diffusion-IR steps in to fix images, while PCR compensates for LiDAR data. The BAFAM module then swoops in for dynamic multimodal fusion and bidirectional BEV alignment. This combo shows **optimal robustness** across three major public datasets, with zero-shot tests proving its awesome generalization capabilities. Seriously impressive!<br/>
 
-4.  **CREW-WILDFIRE🔥 Benchmark: Large-Scale Agent Collaboration Test.**
-    The new [CREW-WILDFIRE benchmark (AI News)](https://arxiv.org/abs/2507.05178) is here! Based on wildfire response scenarios, it evaluates the coordination capabilities of LLM multi-agent systems in large-map, partially observable environments. 💡 It's revealing some weak spots in long-term planning and spatial reasoning. (Source: AI News Daily)<br/>
+4.  **Causal LLMs Get a Text Classification Deep Dive!**
+    A new [study (AI News)](https://arxiv.org/abs/2512.12677) is pitting two fine-tuning strategies against each other for Causal LLMs text classification: embedded vs. instruction-based. The embedded approach, which mixes 4-bit quantization and LoRA, trains an 8B parameter model on a single GPU and absolutely crushes the instruction-based method in F1 scores. What's even wilder? Its performance on proprietary datasets and WIPO-Alpha multi-label tasks even outshines domain-specific models like BERT. Talk about a powerhouse!<br/>
 
-5.  **VDAWorld🌍: VLM-Directed Scene Simulation for World Modeling.**
-    This research introduces the VDAWorld framework, where [VLMs autonomously construct scene representations (AI News)](https://arxiv.org/abs/2512.11061), choosing rigid body or fluid simulators 🚀 to predict future states. It tackles the black-box problem of generative models, enabling interactive world modeling. How cool is that? 😎 [Paper](https://arxiv.org/abs/2512.11061) (Source: AI News Daily)<br/>
-
-6.  **3DGS✨: Transparent Rendering Breakthrough Solves Volumetric Occlusion with Moment Method.**
-    New research extends 3D Gaussian Splatting by [introducing a moment method to calculate transmittance (AI News)](https://arxiv.org/abs/2512.11800)! 💡 This clever approach avoids ray tracing and sorting, significantly boosting the quality of semi-transparent object reconstruction while keeping rasterization super efficient. [Paper](https://arxiv.org/abs/2512.11800) (Source: AI News Daily)<br/>
-
----
+5.  **Google Cloud Unveils AlphaEvolve!**
+    **Google Cloud** has just dropped AlphaEvolve, a [Gemini-powered coding agent (AI News)](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/) that's all about advanced algorithm design. This agent leverages LLMs to whip up code modification suggestions, using a feedback loop to evolve algorithm efficiency. It's currently in private preview, but the promise is clear: higher code quality is on the horizon. Watch out, coders!<br/>
 
 ### Industry Outlook & Social Impact
 
-1.  **Anthropic🧠 Interviews 1250 People: AI Exposes Career Vulnerabilities.**
-    Anthropic just launched its Interviewer tool, [conducting deep interviews with LLMs (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652654701&idx=3&sn=3c673d03e1116bed6b6613e6426d6c68) for creators, professionals, and scientists! 🚀 The findings? Professionals worry about their image being tarnished by AI reliance, creators are anxious about their income, and scientists question reliability. Real talk, folks. 🤔 (Source: AI News Daily)<br/>
+1.  **OpenAI & Anthropic Team Up for Agentic AI Foundation!**
+    In a big move, **OpenAI and Anthropic** have joined forces with Block to establish the [Agentic AI Foundation (AI News)](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/) under the Linux Foundation. Their mission? To focus on setting standards for agent interoperability. They're pouring funds into supporting a secure and reliable agent ecosystem across various tools and repositories, bringing industry leaders together to align on agent interoperability. This is huge for the future of AI!<br/>
 
-2.  **Gorman's Paradox💡: Why AI-Generated Code Hasn't Blown Up Products (Yet)?**
-    The discussion highlights that [AI-generated code hasn't boosted overall output (AI News)](https://newshacker.me/story?id=46262545) because integration, testing, and edge cases are still major bottlenecks. 🚀 Fast generation actually slows down reviews, and most of the output turns out to be low-quality experimental stuff. Food for thought! (Source: AI News Daily)<br/>
+2.  **Stripe Rolls Out Agentic Commerce Suite!**
+    **Stripe's new service** is a game-changer, enabling businesses to sell to multiple AI agents through a single integration. Talk about streamlining! This [sweet new offering (AI News)](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/) covers everything from product discovery and agent checkout to payments and fraud detection, all managed centrally within the Stripe Dashboard. The AI-native commerce infrastructure is now officially commercial, playing nice with existing commerce stacks. It's a win-win!<br/>
 
-3.  **Automation Paradox🔥: Skill Degradation After AI Takes Over.**
-    HackerNews is buzzing about [Bainbridge's Paradox of Automation (AI News)](https://newshacker.me/story?id=46262816)! 💡 When AI takes over tasks, humans end up supervising complex systems but lose their hands-on skills. The aviation industry's mandatory training could be a model, but most organizations lack the incentive to implement it. A real head-scratcher! 🤔 (Source: AI News Daily)<br/>
+3.  **CAICT Launches CAIVD Professional Database!**
+    Under the guidance of the Ministry of Industry and Information Technology, the [CAIVD AI Security Vulnerability Database (AI News)](https://www.aibase.com/zh/news/23731) is officially up and running! This database is the sixth member of the "1 Master Database + 5 Professional Databases" system, specifically focusing on collecting and verifying AI product vulnerabilities. It's building a collaborative network for product providers, manufacturers, research institutions, and users, standardizing vulnerability disclosure channels. You can check it out at: ai.nvdb.org.cn. Major step for security!<br/>
+
+4.  **Homegrown Open-Source Models Tie for Top Spot!**
+    According to the [open-source large model list (AI News)](https://www.aibase.com/zh/news/23705) released by AI researcher Nathan Lambert, **DeepSeek, Qwen, and Kimi** have been ranked as **tied for first place** in terms of influence! The list features 35 organizations, with over half being Chinese teams. DeepSeek R1 has even surpassed top-tier closed-source models, Qwen has spawned dozens of cross-domain versions, and Kimi dropped the world's first trillion-parameter open-source model. Talk about flexing!<br/>![AI News: Top Ten Open-Source AI Model Influence Ranking List](https://source.hubtoday.app/images/2025/12/news_01kckzvrwkf67sqa5v0339dfy7.avif)<br/>
+
+5.  **Former CIA Officer Revives Remote Control Tool Claims!**
+    Former CIA officer Kiriakou stirred up some chatter in a [LADbible video (AI News)](https://newshacker.me/story?id=46276875), claiming intelligence agencies can remotely control phones, TVs, and cars. However, discussions on Hacker News quickly pointed out that this is just a rehash of the 2017 Vault 7 leaks, not fresh evidence. Commenters are questioning Kiriakou's technical currency and the media's tendency to sensationalize, advising the public to refer to the original leaked documents rather than personal statements. Classic case of old news, new hype.<br/>
+
+### Top Open Source Projects
+
+1.  **ConvertX: Your Go-To Self-Hosted File Converter!**
+    **ConvertX** is a total game-changer, supporting [over 1000 formats (AI News)](https://github.com/C4illin/ConvertX) and offering full self-hosted deployment. This little gem is super lightweight, doesn't need any third-party services, and is perfect for individuals and businesses looking to set up their own private file conversion platform. It's already snagged **11.2k stars** – clearly a fan favorite!<br/>
+
+2.  **MDN Web Docs Content Repository: The Dev's Best Friend!**
+    The [MDN Content Repository (AI News)](https://github.com/mdn/content) is the official source for MDN Web Docs, boasting **over 14,000 pages** of HTML, CSS, JS, HTTP, and Web API documentation. Developers can jump right in and contribute content directly. It's already racked up **10.2k stars**, making it a true dev darling!<br/>
+
+3.  **Hashcards: Your Minimalist Spaced Repetition Buddy!**
+    **Hashcards** is a cool, text-based tool for [spaced repetition learning (AI News)](https://github.com/eudoxia0/hashcards). No fussy configurations needed here – it supports Markdown formatted cards and offers lightweight deployment. It's already garnered **629 stars**, proving that sometimes, less is more!<br/>
+
+4.  **SPEC-AGENTS: The Zero-Config Spec-Driven Dev Framework!**
+    **SPEC-AGENTS** is shaking things up with a [zero-configuration, spec-driven development tool (AI News)](https://m.okjike.com/originalPosts/69412979d124ce959a40884a). It lets you communicate in natural language, breaking development into different stages and supporting switching between multiple programming tools without losing progress. This document-driven workflow creates a traceable closed loop, letting even regular users enjoy a mature software development process. Pretty neat, right?<br/>
+
+5.  **Nvidia Acquires SchedMD, Stays Open Source!**
+    Big news in the tech world: **Nvidia** has acquired [SchedMD, the main developer behind Slurm (AI News)](https://www.aibase.com/zh/news/23722)! They've promised to keep Slurm operating as an open-source, neutral platform. Slurm is already the **benchmark** workload management system in high-performance computing and AI, so this is a big deal. Nvidia also simultaneously released the Alpamayo-R1 inference vision model and relaxed licensing for the Cosmos world model, really laying the groundwork for a physical AI ecosystem. Exciting times!<br/>
+
+### Social Buzz
+
+1.  **Alibaba's Agentification: A Deep Dive!**
+    A [community discussion (AI News)](https://m.okjike.com/originalPosts/6941451728fa6ac7346dfd22) highlighted that **Ant Group products** are the most gung-ho about agentification. Why? Because their tool-centric nature prioritizes results over process. Taobao's agentification, however, needs to balance its "portal attribute" ad revenue. Meanwhile, WeChat's enthusiasm is a bit lower since it thrives on "usage process" interaction. Users reckon this isn't strategic restraint but rather a commercial model constraint. Makes sense!<br/>
+
+2.  **The Irony of AI Supervision: Automation's Old Foes!**
+    Hold up! A [1983 paper (AI News)](https://x.com/dotey/status/2000796152921293156) eerily predicted automation issues that are now popping up with AI agents: think skill degradation, memory retrieval woes, and monitoring fatigue. The paper smartly pointed out that training can't replace real-world experience, and humans struggle to stay vigilant when AI messes up. But here's the kicker: AI interfaces are often described as "the worst anomaly detection designs," hiding critical errors within reams of flowing text. Talk about a wake-up call!<br/>
+
+3.  **Claude Code's New Confirmation Mechanism: A Smooth Ride!**
+    A [user shared (AI News)](https://x.com/hongming731/status/2000727149750427898) that the new version of **Claude Code** boasts a super comfortable interactive experience thanks to its confirmation mechanism. Before the agent executes, it pops up a detailed operation preview, letting users review and confirm each item. This is a brilliant way to prevent accidental modifications. Nice touch, Claude!<br/>![AI News: Claude Code Confirmation Mechanism Operation Interface Preview Screenshot](https://source.hubtoday.app/images/2025/12/news_01kckzw3pse4xsm09bvt7x2e6n.avif)<br/>
+
+4.  **Dismissing AGI as Sci-Fi? That's Not Serious!**
+    A [Reddit discussion (AI News)](https://www.reddit.com/r/artificial/comments/1po1393/dismissing_discussion_of_agi_as_science_fiction/) argues that writing off AGI discussions as "science fiction" is "completely unserious." Even skeptical experts believe AGI could be a reality in the next ten to twenty years. That's a whole different ballgame compared to genuine sci-fi concepts like time travel or Martians, right? Time to get real!<br/>![AI News: AGI Timeline Expert Prediction Distribution Comparison Chart](https://source.hubtoday.app/images/2025/12/news_01kckzw6gveaqs57dxqkqyqrx2.avif)<br/>
 
 ---
 
-### Open-Source TOP Projects
+## **AI Daily Digest: Audio Edition**
 
-1.  **CopilotKit🪁: Elegantly Build AI Co-Pilots with React.**
-    [CopilotKit (AI News)](https://github.com/CopilotKit/CopilotKit) is an open-source framework offering React components and infrastructure to quickly build AI chatbots and in-app intelligent agents! 🚀 With ⭐ 26.7k stars, it even supports agent orchestration. Pretty slick! (Source: AI News Daily)<br/>
-
-2.  **DeepCode💻: The Full Code Generation Suite.**
-    The [DeepCode project (AI News)](https://github.com/HKUDS/DeepCode) is crushing it with Paper2Code, Text2Web, and Text2Backend! 🔥 It's an open-source agentic coding solution with ⭐ 12.3k stars. Talk about a one-stop shop! (Source: AI News Daily)<br/>
-
-3.  **Win11Debloat⚙️: Lightweight Windows.**
-    The [Win11Debloat script (AI News)](https://github.com/Raphire/Win11Debloat) is a game-changer! It removes pre-installed apps and disables telemetry 💡, supporting custom optimization for both Win10 and Win11. With ⭐ 35.3k stars, it's a must-have for a leaner Windows experience! (Source: AI News Daily)<br/>
-
-4.  **ConvertX💾: Self-Hosted Format Converter.**
-    The [ConvertX tool (AI News)](https://github.com/C4illin/ConvertX) is a powerhouse, supporting over 1000 format conversions! 🚀 You can self-deploy it as an online service. With ⭐ 10.5k stars, it's super versatile. (Source: AI News Daily)<br/>
-
----
-
-### Social Media Shares
-
-1.  **200K Tokens✨ is Enough: Short Thread Philosophy Against Drunk AI.**
-    @AmpCode blog argues that [Claude Opus 4.5's 200k context (AI News)](https://x.com/shao__meng/status/2000532106200686714) is plenty! 🚀 Long contexts are like force-feeding alcohol, reducing signal-to-noise ratio and causing hallucinations. 💡 The advice? Break tasks into clusters of short threads. Makes sense! 🤔 [Blog](https://ampcode.com/200k-tokens-is-plenty) (Source: AI News Daily)<br/>
-
-2.  **fuzozo🎄 Christmas Edition: AI Toy for Everyone!**
-    @Orange AI shared that the [fuzozo Christmas Edition (AI News)](https://x.com/oran_ge/status/2000549324917543334) is now discounted to 339 yuan, and the Huawei co-branded version sold out fast! 🔥 Its lightweight, pendant-like size is just perfect. (Source: AI News Daily)<br/>![AI News: fuzozo Christmas Edition AI Toy Physical Display](https://source.hubtoday.app/images/2025/12/news_01kchcen9red98w4evhysz1cxm.avif)<br/>
-
-3.  **EveryCode🛠️: Multi-Model Collaborative Programming.**
-    @meng shao recommends the [EveryCode tool (AI News)](https://x.com/shao__meng/status/2000542718981001675)! It integrates GPT, Claude, and Gemini 💡, supporting file system and terminal integration. 🚀 The Magi system brings persistent thought chains to life. Check out the [GitHub](https://github.com/just-every/code)! (Source: AI News Daily)<br/>
-
-4.  **Wang Guan🏆 Crushed Three Times by OpenAI: The Nihilism of Applications.**
-    @Xiangyang Qiaomu recounts [Wang Guan's product history (AI News)](https://x.com/oran_ge/status/2000209409541349625): his writing tool met ChatGPT, Excel-to-chart met GPT-4, and his Agent met Plugins! 🚀 He argues that blindly developing applications is futile. Deep stuff! 🤯 (Source: AI News Daily)<br/>
-
-5.  **Ant Health⚕️ AQ Upgrades to A-Fu: Your AI Wellness Butler.**
-    @Tusiji shares the [Ant Health A-Fu APP (AI News)](https://m.okjike.com/originalPosts/693fc80df9c2789e3717891d)! 📸 Snap a pic to check your tongue coating and skin condition 💡, and it records medical reports to generate observations. Super handy! ✨ Definitely worth a download and play. (Source: AI News Daily)<br/>![AI News: Ant Health A-Fu APP Tongue Diagnosis and Health Report Interface](https://source.hubtoday.app/images/2025/12/news_01kchces04esrv0y9wm1xc8ha2.jpg)<br/>
-
-6.  **Information Acquisition🚀 Efficiency Theory: Bypassing Filters + Reading Surpasses 95%.**
-    @Yangyi emphasizes that [overcoming the information gap (AI News)](https://x.com/Yangyixxxx/status/2000446078320304604) by watching YouTube and reading newsletters is way more efficient than social media! 💡 Digging to the root source puts you ahead of 95% of people. His advice? Build an AI mentor based on Naval Ravikant's principles. Brilliant! ✨ (Source: AI News Daily)<br/>
-
----
-
-## **AI News Daily Voice Edition**
-
-| 🎙️ **Xiaoyuzhou Podcast** | 📹 **Douyin** |
+| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Past Lives Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Hub](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
